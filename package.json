@@ -1,0 +1,16 @@
+{
+  "name": "workos-eval",
+  "version": "1.0.0",
+  "description": "A small express app that works with the WorkOS SSO API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@workos-inc/node": "^2.16.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
